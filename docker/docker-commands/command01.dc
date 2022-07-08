@@ -1,1 +1,1 @@
-// vamo que vamo!!!!
+docker create -i --name 01container alpine:3.12 
