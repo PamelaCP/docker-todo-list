@@ -1,0 +1,4 @@
+docker exec 01container cat /etc/os-release
+
+
+// https://www.mundodocker.com.br/docker-exec/
