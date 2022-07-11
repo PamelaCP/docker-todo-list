@@ -1,4 +1,4 @@
-FROM node:14-alpine as frontend
+FROM node:14-alpine
 WORKDIR /app
 COPY . .
 ADD node_modules.tar.gz .
